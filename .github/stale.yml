@@ -1,3 +1,5 @@
+# hari setelah scale
 daysUntilStale: 5
+# hari setelah close
 daysUntilClose: 1
 closeComment: false
